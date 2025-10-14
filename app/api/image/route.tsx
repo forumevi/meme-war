@@ -1,5 +1,7 @@
+// app/api/image/route.tsx
 import { ImageResponse } from 'next/og';
 import { NextRequest } from 'next/server';
+import React from 'react'; // 👈 BU ZORUNLU
 
 export async function GET(req: NextRequest) {
   const { searchParams } = new URL(req.url);
