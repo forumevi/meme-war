@@ -1,0 +1,20 @@
+{
+  "name": "memewar-solo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.2.3",
+    "react": "18",
+    "react-dom": "18",
+    "@coinbase/onchainkit": "^0.32.0",
+    "frame.js": "^0.0.5"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
