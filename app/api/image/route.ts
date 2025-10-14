@@ -21,6 +21,7 @@ export async function GET(req: NextRequest) {
           fontWeight: 'bold',
           textAlign: 'center',
           padding: '0 80px',
+          fontFamily: 'sans-serif',
         }}
       >
         <div>{text.split('\n').map((line, i) => <div key={i}>{line}</div>)}</div>
