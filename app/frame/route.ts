@@ -2,7 +2,6 @@ import { NextRequest, NextResponse } from 'next/server';
 import { getFrameMessage, getFrameHtml } from 'frame.js';
 
 const MEMES = ["Distracted Boyfriend", "This Is Fine", "Drake Hotline Bling"];
-
 const AI_RESPONSES = [
   "AI used 'This Is Fine'... but it's not fine 😅",
   "AI countered with Drake! Classic move.",
