@@ -1,4 +1,5 @@
-// app/page.tsx
+"use client"; // 👈 BU SATIRI EN ÜSTE EKLE
+
 import { useEffect } from 'react';
 
 export default function Home() {
