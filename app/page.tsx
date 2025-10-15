@@ -1,4 +1,4 @@
-"use client"; // 👈 BU SATIRI EN ÜSTE EKLE
+"use client";
 
 import { useEffect } from 'react';
 
@@ -16,5 +16,11 @@ export default function Home() {
     }
   }, []);
 
-  return <div>Meme War</div>;
+  return (
+    <div style={{ padding: '20px', fontFamily: 'sans-serif' }}>
+      <h1>Meme War: Solo Mode</h1>
+      <p>This is a Farcaster MiniApp. Play it in Farcaster!</p>
+      <p>Frame URL: <code>/frame</code></p>
+    </div>
+  );
 }
