@@ -11,6 +11,11 @@
     "next": "14.2.3",
     "react": "18",
     "react-dom": "18",
-    "@farcaster/miniapp-sdk": "^1.0.0"  // 👈 BU SATIRI EKLE
+    "@farcaster/miniapp-sdk": "^1.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/react": "^18.0.0",
+    "@types/node": "^20.0.0"
   }
 }
