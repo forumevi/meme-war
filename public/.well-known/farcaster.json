@@ -2,7 +2,7 @@
   "frame": {
     "name": "Meme War: Solo Mode",
     "version": "1",
-    "iconUrl": "https://meme-war-dun.vercel.app/icon.png",
+    "iconUrl": "https://placehold.co/512x512/0f0f0f/white?text=⚔️",
     "homeUrl": "https://meme-war-dun.vercel.app",
     "subtitle": "Battle AI with memes. Auto-post wins!",
     "description": "Play alone against AI using legendary memes. Every win auto-posts to your feed.",
@@ -14,12 +14,7 @@
     "heroImageUrl": "https://placehold.co/1920x1080/0f0f0f/white?text=Meme+War+Hero",
     "splashImageUrl": "https://placehold.co/1200x800/0f0f0f/white?text=Battle+AI",
     "splashBackgroundColor": "#0f0f0f",
-    "tags": [
-      "meme",
-      "war",
-      "ai",
-      "game"
-    ],
+    "tags": ["meme", "war", "ai", "game"],
     "tagline": "Win Memes. Auto-Post Victories",
     "buttonTitle": "Play Meme War",
     "ogTitle": "Meme War — Battle AI and Win!",
@@ -27,8 +22,6 @@
     "ogImageUrl": "https://placehold.co/1200x630/0f0f0f/white?text=Meme+War+OG",
     "castShareUrl": "https://warpcast.com/~/compose?text=Check+out+Meme+War:+https%3A%2F%2Fmeme-war-dun.vercel.app%2Fframe",
     "webhookUrl": "https://meme-war-dun.vercel.app/api/webhook"
-  }
-}
   },
   "accountAssociation": {
     "header": "eyJmaWQiOjUyMDE2OCwidHlwZSI6ImF1dGgiLCJrZXkiOiIweDI3N2ZjMTRmNjkwNjA2RWMzMUYwMDYyMDI0NjRFQTU2M2VmRkU2QzIifQ",
