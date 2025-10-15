@@ -23,9 +23,9 @@
     "castShareUrl": "https://warpcast.com/~/compose?text=Check+out+Meme+War:+https%3A%2F%2Fmeme-war-dun.vercel.app%2Fframe",
     "webhookUrl": "https://meme-war-dun.vercel.app/api/webhook"
   },
-  "accountAssociation": {
-    "header": "eyJmaWQiOjUyMDE2OCwidHlwZSI6ImF1dGgiLCJrZXkiOiIweDI3N2ZjMTRmNjkwNjA2RWMzMUYwMDYyMDI0NjRFQTU2M2VmRkU2QzIifQ",
+ "accountAssociation": {
+    "header": "eyJmaWQiOjUyMDE2OCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDM1YTYxMzI4OUMwM0IxMEJCNGZlZmFlRmI4NkFmNTZkNTZjMTNjZTEifQ",
     "payload": "eyJkb21haW4iOiJtZW1lLXdhci1kdW4udmVyY2VsLmFwcCJ9",
-    "signature": "oj9O1GiBCzk16803IcplZZMUPR18xxsDMyOFcKVK5hYMxhJPmDeFy6TWPLPemr7C0i4mss6+kKfzEaDPgyqpthw="
+    "signature": "nTjUejDQhHleRV2xYSnDs1S7ERi5ANNB9CN2ZQTyua4IgRFTfXRHh8dTWIfiebUUNklJbiR+C0Yxfkbx74imQBw="
   }
 }
