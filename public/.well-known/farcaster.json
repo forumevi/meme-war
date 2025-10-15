@@ -1,7 +1,7 @@
 {
   "version": 1,
   "name": "Meme War: Solo Mode",
-  "description": "Battle AI with memes. Every win auto-posts to your feed!",
+  "description": "Battle AI with memes. Auto-post wins!",
   "frames": [
     {
       "version": "vNext",
